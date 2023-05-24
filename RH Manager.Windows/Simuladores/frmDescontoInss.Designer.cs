@@ -67,12 +67,14 @@
             // 
             // panelResultado
             // 
-            this.panelResultado.BackColor = System.Drawing.Color.Transparent;
+            this.panelResultado.BackColor = System.Drawing.Color.Yellow;
             this.panelResultado.Controls.Add(this.lblResultado);
+            this.panelResultado.ForeColor = System.Drawing.SystemColors.ControlText;
             this.panelResultado.Location = new System.Drawing.Point(12, 194);
             this.panelResultado.Name = "panelResultado";
             this.panelResultado.Size = new System.Drawing.Size(422, 100);
             this.panelResultado.TabIndex = 4;
+            this.panelResultado.Visible = false;
             // 
             // lblResultado
             // 
@@ -83,7 +85,7 @@
             this.lblResultado.Size = new System.Drawing.Size(126, 30);
             this.lblResultado.TabIndex = 5;
             this.lblResultado.Text = "lblResultado";
-            this.lblResultado.Visible = false;
+            this.lblResultado.Click += new System.EventHandler(this.lblResultado_Click);
             // 
             // frmDescontoInss
             // 
@@ -95,8 +97,10 @@
             this.Controls.Add(this.btnCalcular);
             this.Controls.Add(this.txtSalarioBase);
             this.Controls.Add(this.lblSalarioBase);
+            this.MaximizeBox = false;
             this.Name = "frmDescontoInss";
             this.Text = "Desconto de INSS";
+            this.Load += new System.EventHandler(this.frmDescontoInss_Load);
             this.panelResultado.ResumeLayout(false);
             this.panelResultado.PerformLayout();
             this.ResumeLayout(false);

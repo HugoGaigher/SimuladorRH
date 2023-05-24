@@ -95,5 +95,10 @@ namespace RH_Manager.Windows
             form.MdiParent = this;
             form.Show();
         }
+
+        private void PrincipalMdi_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

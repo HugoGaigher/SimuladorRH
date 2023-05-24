@@ -10,3 +10,15 @@ C:\Users\Aluno\Source\Repos\Logica_De_Programacao\RH Manager\RH Manager.Windows\
 C:\Users\Aluno\Source\Repos\Logica_De_Programacao\RH Manager\RH Manager.Windows\obj\Debug\RH Manager.Windows.exe
 C:\Users\Aluno\Source\Repos\Logica_De_Programacao\RH Manager\RH Manager.Windows\obj\Debug\RH Manager.Windows.pdb
 C:\Users\Aluno\Source\Repos\Logica_De_Programacao\RH Manager\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmDescontoInss.resources
+C:\Users\Aluno\Source\Repos\SimuladorRH\RH Manager.Windows\bin\Debug\RH Manager.Windows.exe.config
+C:\Users\Aluno\Source\Repos\SimuladorRH\RH Manager.Windows\bin\Debug\RH Manager.Windows.exe
+C:\Users\Aluno\Source\Repos\SimuladorRH\RH Manager.Windows\bin\Debug\RH Manager.Windows.pdb
+C:\Users\Aluno\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH Manager.Windows.csproj.AssemblyReference.cache
+C:\Users\Aluno\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH Manager.Windows.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.PrincipalMdi.resources
+C:\Users\Aluno\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Properties.Resources.resources
+C:\Users\Aluno\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmDescontoInss.resources
+C:\Users\Aluno\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH Manager.Windows.csproj.GenerateResource.cache
+C:\Users\Aluno\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH Manager.Windows.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH Manager.Windows.exe
+C:\Users\Aluno\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH Manager.Windows.pdb
