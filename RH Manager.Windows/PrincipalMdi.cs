@@ -9,6 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using RH_Manager.Windows.Properties;
 
 namespace RH_Manager.Windows
 {
@@ -97,6 +98,16 @@ namespace RH_Manager.Windows
         }
 
         private void PrincipalMdi_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void claroToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void escuroToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
         }

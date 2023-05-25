@@ -63,6 +63,16 @@ namespace RH_Manager.Windows.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap fgts {
+            get {
+                object obj = ResourceManager.GetObject("fgts", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap inss {
             get {
                 object obj = ResourceManager.GetObject("inss", resourceCulture);
@@ -76,6 +86,16 @@ namespace RH_Manager.Windows.Properties {
         internal static System.Drawing.Bitmap inssdeverdade2 {
             get {
                 object obj = ResourceManager.GetObject("inssdeverdade2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap vale_transporte {
+            get {
+                object obj = ResourceManager.GetObject("vale-transporte", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

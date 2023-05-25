@@ -53,6 +53,7 @@
             this.txtSalarioBase.Name = "txtSalarioBase";
             this.txtSalarioBase.Size = new System.Drawing.Size(215, 35);
             this.txtSalarioBase.TabIndex = 1;
+            this.txtSalarioBase.Click += new System.EventHandler(this.btnCalcular_Click);
             // 
             // btnCalcular
             // 
