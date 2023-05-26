@@ -36,3 +36,5 @@ C:\Users\Aluno\Source\Repos\HugoGaigher\SimuladorRH\RH Manager.Windows\obj\Debug
 C:\Users\Aluno\Source\Repos\HugoGaigher\SimuladorRH\RH Manager.Windows\obj\Debug\RH Manager.Windows.pdb
 C:\Users\Aluno\Source\Repos\HugoGaigher\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioValeTransporte.resources
 C:\Users\Aluno\Source\Repos\HugoGaigher\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioFgts.resources
+C:\Users\Aluno\Source\Repos\HugoGaigher\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmDescontoIrpf.resources
+C:\Users\Aluno\Source\Repos\HugoGaigher\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioAdicionalNoturno.resources
