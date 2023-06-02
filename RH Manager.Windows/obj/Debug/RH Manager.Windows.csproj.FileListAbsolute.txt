@@ -38,3 +38,5 @@ C:\Users\Aluno\Source\Repos\HugoGaigher\SimuladorRH\RH Manager.Windows\obj\Debug
 C:\Users\Aluno\Source\Repos\HugoGaigher\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioFgts.resources
 C:\Users\Aluno\Source\Repos\HugoGaigher\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmDescontoIrpf.resources
 C:\Users\Aluno\Source\Repos\HugoGaigher\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioAdicionalNoturno.resources
+C:\Users\Aluno\Source\Repos\HugoGaigher\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioFerias.resources
+C:\Users\Aluno\Source\Repos\HugoGaigher\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioPericulosidade.resources

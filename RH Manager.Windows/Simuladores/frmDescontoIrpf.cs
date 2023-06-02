@@ -30,7 +30,7 @@ namespace RH_Manager.Windows.Simuladores
                 try
                 {
                     var salarioBase = double.Parse(txtSalarioBase.Text);
-                    var descontoIrpf = Irpf.Calcula(salarioBase);
+                    var descontoIrpf = Irrf.Calcula(salarioBase);
                     lblResultado.Text = descontoIrpf.ToString("C");
                     panelResultado.Visible = true;
 

@@ -53,9 +53,10 @@
       <DependentUpon>frmFuncionario.cs</DependentUpon>
     </Compile>
     <Compile Include="Core\AdicionalNoturno.cs" />
+    <Compile Include="Core\AdicionalPericulosidade.cs" />
     <Compile Include="Core\Fgts.cs" />
     <Compile Include="Core\Inss.cs" />
-    <Compile Include="Core\Irpf.cs" />
+    <Compile Include="Core\Irrf.cs" />
     <Compile Include="Core\ValeTransporte.cs" />
     <Compile Include="PrincipalMdi.cs">
       <SubType>Form</SubType>
@@ -141,8 +142,17 @@
     <EmbeddedResource Include="Simuladores\frmBeneficioAdicionalNoturno.resx">
       <DependentUpon>frmBeneficioAdicionalNoturno.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Simuladores\frmBeneficioFerias.resx">
+      <DependentUpon>frmBeneficioFerias.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Simuladores\frmBeneficioFgts.resx">
       <DependentUpon>frmBeneficioFgts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Simuladores\frmBeneficioPericulosidade.resx">
+      <DependentUpon>frmBeneficioPericulosidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Simuladores\frmBeneficioPis.resx">
+      <DependentUpon>frmBeneficioPis.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Simuladores\frmBeneficioValeTransporte.resx">
       <DependentUpon>frmBeneficioValeTransporte.cs</DependentUpon>
@@ -183,6 +193,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\horas noturnas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\férias.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\periculosidade.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

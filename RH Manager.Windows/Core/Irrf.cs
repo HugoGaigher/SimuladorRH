@@ -2,7 +2,7 @@
 
 namespace RH_Manager.Windows.Core
 {
-    public class Irpf
+    public class Irrf
     {
         const double Faixa01 = 2112;
         const double Faixa02 = 2826.65;

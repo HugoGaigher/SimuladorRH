@@ -63,6 +63,16 @@ namespace RH_Manager.Windows.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap férias {
+            get {
+                object obj = ResourceManager.GetObject("férias", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap fgts {
             get {
                 object obj = ResourceManager.GetObject("fgts", resourceCulture);
@@ -106,6 +116,16 @@ namespace RH_Manager.Windows.Properties {
         internal static System.Drawing.Bitmap irpf {
             get {
                 object obj = ResourceManager.GetObject("irpf", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap periculosidade {
+            get {
+                object obj = ResourceManager.GetObject("periculosidade", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
