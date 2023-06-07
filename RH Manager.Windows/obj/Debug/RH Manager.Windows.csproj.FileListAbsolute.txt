@@ -40,3 +40,23 @@ C:\Users\Aluno\Source\Repos\HugoGaigher\SimuladorRH\RH Manager.Windows\obj\Debug
 C:\Users\Aluno\Source\Repos\HugoGaigher\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioAdicionalNoturno.resources
 C:\Users\Aluno\Source\Repos\HugoGaigher\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioFerias.resources
 C:\Users\Aluno\Source\Repos\HugoGaigher\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioPericulosidade.resources
+C:\Users\Aluno\Desktop\Nova pasta (2)\RH Manager.Windows\bin\Debug\RH Manager.Windows.exe.config
+C:\Users\Aluno\Desktop\Nova pasta (2)\RH Manager.Windows\bin\Debug\RH Manager.Windows.exe
+C:\Users\Aluno\Desktop\Nova pasta (2)\RH Manager.Windows\bin\Debug\RH Manager.Windows.pdb
+C:\Users\Aluno\Desktop\Nova pasta (2)\RH Manager.Windows\obj\Debug\RH Manager.Windows.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Nova pasta (2)\RH Manager.Windows\obj\Debug\RH Manager.Windows.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Nova pasta (2)\RH Manager.Windows\obj\Debug\RH_Manager.Windows.PrincipalMdi.resources
+C:\Users\Aluno\Desktop\Nova pasta (2)\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Nova pasta (2)\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioAdicionalNoturno.resources
+C:\Users\Aluno\Desktop\Nova pasta (2)\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioFerias.resources
+C:\Users\Aluno\Desktop\Nova pasta (2)\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioFgts.resources
+C:\Users\Aluno\Desktop\Nova pasta (2)\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioPericulosidade.resources
+C:\Users\Aluno\Desktop\Nova pasta (2)\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioPis.resources
+C:\Users\Aluno\Desktop\Nova pasta (2)\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioValeTransporte.resources
+C:\Users\Aluno\Desktop\Nova pasta (2)\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmDescontoInss.resources
+C:\Users\Aluno\Desktop\Nova pasta (2)\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmDescontoIrpf.resources
+C:\Users\Aluno\Desktop\Nova pasta (2)\RH Manager.Windows\obj\Debug\RH Manager.Windows.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Nova pasta (2)\RH Manager.Windows\obj\Debug\RH Manager.Windows.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Nova pasta (2)\RH Manager.Windows\obj\Debug\RH Manager.Windows.exe
+C:\Users\Aluno\Desktop\Nova pasta (2)\RH Manager.Windows\obj\Debug\RH Manager.Windows.pdb
+C:\Users\Aluno\Desktop\Nova pasta (2)\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioSeguroDesemprego.resources
