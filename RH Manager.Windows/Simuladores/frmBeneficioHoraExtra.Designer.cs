@@ -34,7 +34,7 @@
             this.lblTaxaHoraExtra = new System.Windows.Forms.Label();
             this.txtHorasTrabalhadas = new System.Windows.Forms.TextBox();
             this.lblHorasTrabalhadasNoMes = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnCalcular = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblSalarioBase
@@ -91,22 +91,23 @@
             this.lblHorasTrabalhadasNoMes.TabIndex = 4;
             this.lblHorasTrabalhadasNoMes.Text = "Horas Trabalhadas no Mês";
             // 
-            // button1
+            // btnCalcular
             // 
-            this.button1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(244, 128);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(119, 35);
-            this.button1.TabIndex = 6;
-            this.button1.Text = "CALCULAR";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnCalcular.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCalcular.Location = new System.Drawing.Point(244, 128);
+            this.btnCalcular.Name = "btnCalcular";
+            this.btnCalcular.Size = new System.Drawing.Size(119, 35);
+            this.btnCalcular.TabIndex = 7;
+            this.btnCalcular.Text = "CALCULAR";
+            this.btnCalcular.UseVisualStyleBackColor = true;
+            this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
             // 
             // frmBeneficioHoraExtra
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(519, 355);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnCalcular);
             this.Controls.Add(this.txtHorasTrabalhadas);
             this.Controls.Add(this.lblHorasTrabalhadasNoMes);
             this.Controls.Add(this.txtTaxaHoraExtra);
@@ -128,6 +129,6 @@
         private System.Windows.Forms.Label lblTaxaHoraExtra;
         private System.Windows.Forms.TextBox txtHorasTrabalhadas;
         private System.Windows.Forms.Label lblHorasTrabalhadasNoMes;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnCalcular;
     }
 }
