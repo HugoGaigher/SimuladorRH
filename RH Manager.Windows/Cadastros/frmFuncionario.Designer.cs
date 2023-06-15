@@ -34,7 +34,6 @@
             this.txtCpf = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.txtDataNascimento = new System.Windows.Forms.MaskedTextBox();
-            this.txtCep = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.btnPesquisar = new System.Windows.Forms.Button();
             this.txtLogradouro = new System.Windows.Forms.TextBox();
@@ -48,9 +47,10 @@
             this.label8 = new System.Windows.Forms.Label();
             this.txtDdd = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
-            this.txtTelefone = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
             this.cmbEstado = new System.Windows.Forms.ComboBox();
+            this.txtCep = new System.Windows.Forms.MaskedTextBox();
+            this.txtTelefone = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // lblNome
@@ -103,13 +103,6 @@
             this.txtDataNascimento.TabIndex = 6;
             this.txtDataNascimento.ValidatingType = typeof(System.DateTime);
             // 
-            // txtCep
-            // 
-            this.txtCep.Location = new System.Drawing.Point(52, 169);
-            this.txtCep.Name = "txtCep";
-            this.txtCep.Size = new System.Drawing.Size(147, 20);
-            this.txtCep.TabIndex = 8;
-            // 
             // label3
             // 
             this.label3.AutoSize = true;
@@ -121,12 +114,13 @@
             // 
             // btnPesquisar
             // 
-            this.btnPesquisar.Location = new System.Drawing.Point(205, 169);
+            this.btnPesquisar.Location = new System.Drawing.Point(124, 170);
             this.btnPesquisar.Name = "btnPesquisar";
             this.btnPesquisar.Size = new System.Drawing.Size(75, 20);
             this.btnPesquisar.TabIndex = 9;
             this.btnPesquisar.Text = "Pesquisar";
             this.btnPesquisar.UseVisualStyleBackColor = true;
+            this.btnPesquisar.Click += new System.EventHandler(this.btnPesquisar_Click);
             // 
             // txtLogradouro
             // 
@@ -217,13 +211,6 @@
             this.label9.TabIndex = 26;
             this.label9.Text = "DDD";
             // 
-            // txtTelefone
-            // 
-            this.txtTelefone.Location = new System.Drawing.Point(101, 349);
-            this.txtTelefone.Name = "txtTelefone";
-            this.txtTelefone.Size = new System.Drawing.Size(147, 20);
-            this.txtTelefone.TabIndex = 29;
-            // 
             // label10
             // 
             this.label10.AutoSize = true;
@@ -266,14 +253,30 @@
             "DF"});
             this.cmbEstado.Location = new System.Drawing.Point(216, 287);
             this.cmbEstado.Name = "cmbEstado";
-            this.cmbEstado.Size = new System.Drawing.Size(121, 21);
+            this.cmbEstado.Size = new System.Drawing.Size(152, 21);
             this.cmbEstado.TabIndex = 30;
+            // 
+            // txtCep
+            // 
+            this.txtCep.Location = new System.Drawing.Point(52, 170);
+            this.txtCep.Mask = "00000-000";
+            this.txtCep.Name = "txtCep";
+            this.txtCep.Size = new System.Drawing.Size(60, 20);
+            this.txtCep.TabIndex = 31;
+            // 
+            // txtTelefone
+            // 
+            this.txtTelefone.Location = new System.Drawing.Point(101, 349);
+            this.txtTelefone.Name = "txtTelefone";
+            this.txtTelefone.Size = new System.Drawing.Size(147, 20);
+            this.txtTelefone.TabIndex = 29;
             // 
             // frmFuncionario
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(633, 450);
+            this.Controls.Add(this.txtCep);
             this.Controls.Add(this.cmbEstado);
             this.Controls.Add(this.txtTelefone);
             this.Controls.Add(this.label10);
@@ -289,7 +292,6 @@
             this.Controls.Add(this.txtLogradouro);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.btnPesquisar);
-            this.Controls.Add(this.txtCep);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.txtDataNascimento);
             this.Controls.Add(this.label2);
@@ -313,7 +315,6 @@
         private System.Windows.Forms.TextBox txtCpf;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.MaskedTextBox txtDataNascimento;
-        private System.Windows.Forms.TextBox txtCep;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button btnPesquisar;
         private System.Windows.Forms.TextBox txtLogradouro;
@@ -327,8 +328,9 @@
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.TextBox txtDdd;
         private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.TextBox txtTelefone;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.ComboBox cmbEstado;
+        private System.Windows.Forms.MaskedTextBox txtCep;
+        private System.Windows.Forms.TextBox txtTelefone;
     }
 }
