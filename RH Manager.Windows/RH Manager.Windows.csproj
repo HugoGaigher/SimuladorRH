@@ -55,6 +55,7 @@
     <Compile Include="Cadastros\frmFuncionario.Designer.cs">
       <DependentUpon>frmFuncionario.cs</DependentUpon>
     </Compile>
+    <Compile Include="Core\AdicionalHoraExrta.cs" />
     <Compile Include="Core\AdicionalNoturno.cs" />
     <Compile Include="Core\AdicionalPericulosidade.cs" />
     <Compile Include="Core\Colaborador.cs" />
@@ -64,6 +65,12 @@
     <Compile Include="Core\Inss.cs" />
     <Compile Include="Core\Irrf.cs" />
     <Compile Include="Core\ValeTransporte.cs" />
+    <Compile Include="PrincipalMdi - Cópia .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrincipalMdi - Cópia .Designer.cs">
+      <DependentUpon>PrincipalMdi - Cópia .cs</DependentUpon>
+    </Compile>
     <Compile Include="PrincipalMdi.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,6 +83,12 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Simuladores\frmDetalhamentoContracheque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Simuladores\frmDetalhamentoContracheque.Designer.cs">
+      <DependentUpon>frmDetalhamentoContracheque.cs</DependentUpon>
     </Compile>
     <Compile Include="Simuladores\frmBeneficioAdicionalNoturno.cs">
       <SubType>Form</SubType>
@@ -140,6 +153,9 @@
     <EmbeddedResource Include="Cadastros\frmFuncionario.resx">
       <DependentUpon>frmFuncionario.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="PrincipalMdi - Cópia .resx">
+      <DependentUpon>PrincipalMdi - Cópia .cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="PrincipalMdi.resx">
       <DependentUpon>PrincipalMdi.cs</DependentUpon>
     </EmbeddedResource>
@@ -177,6 +193,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Simuladores\frmDescontoIrpf.resx">
       <DependentUpon>frmDescontoIrpf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Simuladores\frmDetalhamentoContracheque.resx">
+      <DependentUpon>frmDetalhamentoContracheque.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">

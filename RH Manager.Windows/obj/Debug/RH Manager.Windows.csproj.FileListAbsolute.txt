@@ -107,3 +107,29 @@ C:\Users\Aluno\Desktop\simluadorrh\RH Manager.Windows\obj\Debug\RH Manager.Windo
 C:\Users\Aluno\Desktop\simluadorrh\RH Manager.Windows\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Aluno\Desktop\simluadorrh\RH Manager.Windows\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Aluno\Desktop\simluadorrh\RH Manager.Windows\obj\Debug\RH Manager.Windows.csproj.CopyComplete
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\bin\Debug\RH Manager.Windows.exe.config
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\bin\Debug\RH Manager.Windows.exe
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\bin\Debug\RH Manager.Windows.pdb
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH Manager.Windows.csproj.AssemblyReference.cache
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH Manager.Windows.csproj.SuggestedBindingRedirects.cache
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Cadastros.frmFuncionario.resources
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.PrincipalMdi.resources
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Properties.Resources.resources
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioAdicionalNoturno.resources
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioFerias.resources
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioFgts.resources
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioHoraExtra.resources
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioPericulosidade.resources
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioPis.resources
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioSeguroDesemprego.resources
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmBeneficioValeTransporte.resources
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmDescontoInss.resources
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmDescontoIrpf.resources
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH Manager.Windows.csproj.GenerateResource.cache
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH Manager.Windows.csproj.CoreCompileInputs.cache
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH Manager.Windows.csproj.CopyComplete
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH Manager.Windows.exe
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH Manager.Windows.pdb
+C:\Users\hugog\Source\Repos\SimuladorRH\RH Manager.Windows\obj\Debug\RH_Manager.Windows.Simuladores.frmDetalhamentoContracheque.resources

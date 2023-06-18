@@ -15,10 +15,7 @@ namespace RH_Manager.Windows
 {
     public partial class PrincipalMdi : Form
     {
-        public PrincipalMdi()
-        {
-            InitializeComponent();
-        }
+        public PrincipalMdi() => InitializeComponent();
 
         private void descontoDeINSSToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -102,14 +99,13 @@ namespace RH_Manager.Windows
 
         }
 
-        private void claroToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            
-        }
+        
 
-        private void escuroToolStripMenuItem_Click(object sender, EventArgs e)
+        private void contrachequeToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            var form = new frmDetalhamentoContracheque();
+            form.MdiParent = this;
+            form.Show();
         }
     }
 }
